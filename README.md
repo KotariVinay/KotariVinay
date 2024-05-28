@@ -1,7 +1,7 @@
 ## Hello, I'm Kotari Vinay👋
 
 ## Welcome to my Github profile! I'm a C programmer from Andhra Pradesh,India.
-## with a passion for Embedded Systems.
+
 <!--
 **KotariVinay/KotariVinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/vinay-kotari-17726a188)
+[![LinkedIn](https://github.com/KotariVinay/yourrepository/raw/main/assets/linkedin-logo.png)](https://www.linkedin.com/in/KotariVinay)
 
 
 ## My GitHub Stats

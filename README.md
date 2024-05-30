@@ -6,6 +6,7 @@
 **KotariVinay/KotariVinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on C projects
 - 🌱 I’m currently learning Embedded Systems
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ->Embedded Systems,C Programming,Indian Cricket,AP Politics
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am dedicated to improving my skills and knowledge everyday.Currently,Iam doing 100-day challenge focused on embedded systems, sharing my journey and insights with others on LinkedIn."
--->
+
 
 ## Connect with me
 

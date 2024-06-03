@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Embedded Systems
 - 👯 I’m looking to collaborate on Embedded Systems projects
 - 💬 Ask me about ->Embedded Systems,C Programming,Indian Cricket,AP Politics
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am dedicated to improving my skills and knowledge everyday.Currently,Iam doing 100-day challenge focused on embedded systems, sharing my journey and insights with others on LinkedIn."
+- ⚡ Fun fact: Inconsistently consistent!!
 
 
 ## Connect with me

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Embedded Systems
 - 👯 I’m looking to collaborate on Embedded Systems projects
 - 💬 Ask me about ->Embedded Systems,C Programming,Indian Cricket,AP Politics
-- ⚡ Fun fact: Inconsistently consistent!!
+- ⚡ Fun fact: Inconsistently consistent!
 
 
 ## Connect with me
